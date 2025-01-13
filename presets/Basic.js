@@ -1,4 +1,4 @@
-import { Module } from "https://qrframe.kylezhe.ng/utils.js";
+import { Module } from "https://qrcode.aolifu.org/utils.js";
 
 export const paramsSchema = {
   Margin: {
