@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <!-- 背景 -->
+    <rect width="24" height="24" fill="#ffffff" rx="3" ry="3"/>
+
+    <!-- 简化的QR码样式 -->
+    <g fill="#000000">
+        <!-- 左上角定位标记 -->
+        <rect x="3" y="3" width="6" height="6"/>
+        <rect x="5" y="5" width="2" height="2" fill="#ffffff"/>
+
+        <!-- 右上角定位标记 -->
+        <rect x="15" y="3" width="6" height="6"/>
+        <rect x="17" y="5" width="2" height="2" fill="#ffffff"/>
+
+        <!-- 左下角定位标记 -->
+        <rect x="3" y="15" width="6" height="6"/>
+        <rect x="5" y="17" width="2" height="2" fill="#ffffff"/>
+
+        <!-- 随机QR码样式点 -->
+        <rect x="12" y="4" width="2" height="2"/>
+        <rect x="12" y="10" width="2" height="2"/>
+        <rect x="12" y="18" width="2" height="2"/>
+        <rect x="16" y="12" width="2" height="2"/>
+        <rect x="18" y="18" width="2" height="2"/>
+        <rect x="4" y="12" width="2" height="2"/>
+        <rect x="8" y="8" width="2" height="2"/>
+        <rect x="8" y="18" width="2" height="2"/>
+    </g>
+
+    <!-- 装饰性元素 - 简化的"工坊"字样暗示 -->
+    <path d="M15 12c0 1.657-1.343 3-3 3s-3-1.343-3-3 1.343-3 3-3 3 1.343 3 3z" fill="#ff5555"/>
+</svg>
